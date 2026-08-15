@@ -1,0 +1,122 @@
+[
+  {
+    "patient_id": "P001",
+    "name": "Amit Sharma",
+    "age": 45,
+    "gender": "Male",
+    "diagnosis": "Hypertension",
+    "admission_date": "2026-08-01"
+  },
+  {
+    "patient_id": "P002",
+    "name": "Priya Nair",
+    "age": 32,
+    "gender": "Female",
+    "diagnosis": "Diabetes Type II",
+    "admission_date": "2026-08-02"
+  },
+  {
+    "patient_id": "P003",
+    "name": "Ravi Kumar",
+    "age": 60,
+    "gender": "Male",
+    "diagnosis": "Coronary Artery Disease",
+    "admission_date": "2026-08-03"
+  },
+  {
+    "patient_id": "P004",
+    "name": "Sneha Gupta",
+    "age": 28,
+    "gender": "Female",
+    "diagnosis": "Asthma",
+    "admission_date": "2026-08-03"
+  },
+  {
+    "patient_id": "P005",
+    "name": "Mohammed Ali",
+    "age": 50,
+    "gender": "Male",
+    "diagnosis": "Chronic Kidney Disease",
+    "admission_date": "2026-08-04"
+  },
+  {
+    "patient_id": "P006",
+    "name": "Kavita Joshi",
+    "age": 40,
+    "gender": "Female",
+    "diagnosis": "Migraine",
+    "admission_date": "2026-08-04"
+  },
+  {
+    "patient_id": "P007",
+    "name": "Suresh Patel",
+    "age": 55,
+    "gender": "Male",
+    "diagnosis": "Stroke",
+    "admission_date": "2026-08-05"
+  },
+  {
+    "patient_id": "P008",
+    "name": "Anjali Mehta",
+    "age": 36,
+    "gender": "Female",
+    "diagnosis": "Thyroid Disorder",
+    "admission_date": "2026-08-05"
+  },
+  {
+    "patient_id": "P009",
+    "name": "Deepak Singh",
+    "age": 42,
+    "gender": "Male",
+    "diagnosis": "Tuberculosis",
+    "admission_date": "2026-08-06"
+  },
+  {
+    "patient_id": "P010",
+    "name": "Ritika Das",
+    "age": 30,
+    "gender": "Female",
+    "diagnosis": "Anemia",
+    "admission_date": "2026-08-06"
+  },
+  {
+    "patient_id": "P011",
+    "name": "Arjun Verma",
+    "age": 65,
+    "gender": "Male",
+    "diagnosis": "Parkinson’s Disease",
+    "admission_date": "2026-08-07"
+  },
+  {
+    "patient_id": "P012",
+    "name": "Meera Iyer",
+    "age": 48,
+    "gender": "Female",
+    "diagnosis": "Breast Cancer",
+    "admission_date": "2026-08-07"
+  },
+  {
+    "patient_id": "P013",
+    "name": "Vikram Rao",
+    "age": 52,
+    "gender": "Male",
+    "diagnosis": "Liver Cirrhosis",
+    "admission_date": "2026-08-07"
+  },
+  {
+    "patient_id": "P014",
+    "name": "Pooja Sen",
+    "age": 27,
+    "gender": "Female",
+    "diagnosis": "Epilepsy",
+    "admission_date": "2026-08-07"
+  },
+  {
+    "patient_id": "P015",
+    "name": "Rajesh Khanna",
+    "age": 70,
+    "gender": "Male",
+    "diagnosis": "Alzheimer’s Disease",
+    "admission_date": "2026-08-07"
+  }
+]
