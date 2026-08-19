@@ -1,0 +1,802 @@
+[
+  {
+    "age": 28,
+    "weight": 72.5,
+    "height": 1.75,
+    "income_lpa": 12,
+    "smoker": "No",
+    "city": "Bangalore",
+    "occupation": "Software Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 45,
+    "weight": 85.2,
+    "height": 1.68,
+    "income_lpa": 25,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Data Scientist",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 34,
+    "weight": 60.8,
+    "height": 1.60,
+    "income_lpa": 8,
+    "smoker": "No",
+    "city": "Delhi",
+    "occupation": "Teacher",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 52,
+    "weight": 90.0,
+    "height": 1.70,
+    "income_lpa": 30,
+    "smoker": "Yes",
+    "city": "Kolkata",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 23,
+    "weight": 65.4,
+    "height": 1.72,
+    "income_lpa": 6,
+    "smoker": "No",
+    "city": "Hyderabad",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 39,
+    "weight": 78.1,
+    "height": 1.80,
+    "income_lpa": 18,
+    "smoker": "No",
+    "city": "Chennai",
+    "occupation": "Architect",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 31,
+    "weight": 69.7,
+    "height": 1.65,
+    "income_lpa": 22,
+    "smoker": "Yes",
+    "city": "Pune",
+    "occupation": "Manager",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 27,
+    "weight": 74.3,
+    "height": 1.78,
+    "income_lpa": 15,
+    "smoker": "No",
+    "city": "Delhi",
+    "occupation": "Analyst",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 41,
+    "weight": 82.6,
+    "height": 1.73,
+    "income_lpa": 28,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Consultant",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 36,
+    "weight": 68.9,
+    "height": 1.69,
+    "income_lpa": 9,
+    "smoker": "No",
+    "city": "Kolkata",
+    "occupation": "Teacher",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 29,
+    "weight": 70.2,
+    "height": 1.74,
+    "income_lpa": 11,
+    "smoker": "No",
+    "city": "Bangalore",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 48,
+    "weight": 88.5,
+    "height": 1.71,
+    "income_lpa": 32,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 25,
+    "weight": 64.8,
+    "height": 1.67,
+    "income_lpa": 7,
+    "smoker": "No",
+    "city": "Delhi",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 33,
+    "weight": 76.4,
+    "height": 1.76,
+    "income_lpa": 19,
+    "smoker": "No",
+    "city": "Hyderabad",
+    "occupation": "Analyst",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 42,
+    "weight": 84.0,
+    "height": 1.72,
+    "income_lpa": 27,
+    "smoker": "Yes",
+    "city": "Chennai",
+    "occupation": "Manager",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 30,
+    "weight": 71.5,
+    "height": 1.70,
+    "income_lpa": 13,
+    "smoker": "No",
+    "city": "Pune",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 37,
+    "weight": 79.2,
+    "height": 1.77,
+    "income_lpa": 21,
+    "smoker": "Yes",
+    "city": "Delhi",
+    "occupation": "Consultant",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 26,
+    "weight": 66.7,
+    "height": 1.68,
+    "income_lpa": 8,
+    "smoker": "No",
+    "city": "Kolkata",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 44,
+    "weight": 86.3,
+    "height": 1.74,
+    "income_lpa": 29,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 32,
+    "weight": 73.8,
+    "height": 1.71,
+    "income_lpa": 16,
+    "smoker": "No",
+    "city": "Bangalore",
+    "occupation": "Software Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 28,
+    "weight": 72.5,
+    "height": 1.75,
+    "income_lpa": 12,
+    "smoker": "No",
+    "city": "Bangalore",
+    "occupation": "Software Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 45,
+    "weight": 85.2,
+    "height": 1.68,
+    "income_lpa": 25,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Data Scientist",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 34,
+    "weight": 60.8,
+    "height": 1.60,
+    "income_lpa": 8,
+    "smoker": "No",
+    "city": "Delhi",
+    "occupation": "Teacher",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 52,
+    "weight": 90.0,
+    "height": 1.70,
+    "income_lpa": 30,
+    "smoker": "Yes",
+    "city": "Kolkata",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 23,
+    "weight": 65.4,
+    "height": 1.72,
+    "income_lpa": 6,
+    "smoker": "No",
+    "city": "Hyderabad",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 39,
+    "weight": 78.1,
+    "height": 1.80,
+    "income_lpa": 18,
+    "smoker": "No",
+    "city": "Chennai",
+    "occupation": "Architect",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 31,
+    "weight": 69.7,
+    "height": 1.65,
+    "income_lpa": 22,
+    "smoker": "Yes",
+    "city": "Pune",
+    "occupation": "Manager",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 27,
+    "weight": 74.3,
+    "height": 1.78,
+    "income_lpa": 15,
+    "smoker": "No",
+    "city": "Delhi",
+    "occupation": "Analyst",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 41,
+    "weight": 82.6,
+    "height": 1.73,
+    "income_lpa": 28,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Consultant",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 36,
+    "weight": 68.9,
+    "height": 1.69,
+    "income_lpa": 9,
+    "smoker": "No",
+    "city": "Kolkata",
+    "occupation": "Teacher",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 29,
+    "weight": 70.2,
+    "height": 1.74,
+    "income_lpa": 11,
+    "smoker": "No",
+    "city": "Bangalore",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 48,
+    "weight": 88.5,
+    "height": 1.71,
+    "income_lpa": 32,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 25,
+    "weight": 64.8,
+    "height": 1.67,
+    "income_lpa": 7,
+    "smoker": "No",
+    "city": "Delhi",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 33,
+    "weight": 76.4,
+    "height": 1.76,
+    "income_lpa": 19,
+    "smoker": "No",
+    "city": "Hyderabad",
+    "occupation": "Analyst",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 42,
+    "weight": 84.0,
+    "height": 1.72,
+    "income_lpa": 27,
+    "smoker": "Yes",
+    "city": "Chennai",
+    "occupation": "Manager",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 30,
+    "weight": 71.5,
+    "height": 1.70,
+    "income_lpa": 13,
+    "smoker": "No",
+    "city": "Pune",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 37,
+    "weight": 79.2,
+    "height": 1.77,
+    "income_lpa": 21,
+    "smoker": "Yes",
+    "city": "Delhi",
+    "occupation": "Consultant",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 26,
+    "weight": 66.7,
+    "height": 1.68,
+    "income_lpa": 8,
+    "smoker": "No",
+    "city": "Kolkata",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 44,
+    "weight": 86.3,
+    "height": 1.74,
+    "income_lpa": 29,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 32,
+    "weight": 73.8,
+    "height": 1.71,
+    "income_lpa": 16,
+    "smoker": "No",
+    "city": "Bangalore",
+    "occupation": "Software Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 29,
+    "weight": 71.2,
+    "height": 1.72,
+    "income_lpa": 12,
+    "smoker": "No",
+    "city": "Bangalore",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 47,
+    "weight": 87.9,
+    "height": 1.70,
+    "income_lpa": 30,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 25,
+    "weight": 65.1,
+    "height": 1.67,
+    "income_lpa": 7,
+    "smoker": "No",
+    "city": "Delhi",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 41,
+    "weight": 82.4,
+    "height": 1.74,
+    "income_lpa": 21,
+    "smoker": "No",
+    "city": "Kolkata",
+    "occupation": "Manager",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 33,
+    "weight": 75.6,
+    "height": 1.71,
+    "income_lpa": 16,
+    "smoker": "No",
+    "city": "Hyderabad",
+    "occupation": "Analyst",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 50,
+    "weight": 89.3,
+    "height": 1.72,
+    "income_lpa": 34,
+    "smoker": "Yes",
+    "city": "Chennai",
+    "occupation": "Consultant",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 28,
+    "weight": 70.4,
+    "height": 1.70,
+    "income_lpa": 11,
+    "smoker": "No",
+    "city": "Pune",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 39,
+    "weight": 78.9,
+    "height": 1.75,
+    "income_lpa": 19,
+    "smoker": "No",
+    "city": "Delhi",
+    "occupation": "Analyst",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 44,
+    "weight": 85.7,
+    "height": 1.73,
+    "income_lpa": 27,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 31,
+    "weight": 72.8,
+    "height": 1.71,
+    "income_lpa": 14,
+    "smoker": "No",
+    "city": "Kolkata",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 36,
+    "weight": 77.5,
+    "height": 1.76,
+    "income_lpa": 20,
+    "smoker": "No",
+    "city": "Hyderabad",
+    "occupation": "Manager",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 49,
+    "weight": 88.6,
+    "height": 1.72,
+    "income_lpa": 32,
+    "smoker": "Yes",
+    "city": "Chennai",
+    "occupation": "Consultant",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 27,
+    "weight": 68.2,
+    "height": 1.68,
+    "income_lpa": 9,
+    "smoker": "No",
+    "city": "Pune",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 42,
+    "weight": 84.3,
+    "height": 1.74,
+    "income_lpa": 26,
+    "smoker": "Yes",
+    "city": "Delhi",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 30,
+    "weight": 71.9,
+    "height": 1.70,
+    "income_lpa": 13,
+    "smoker": "No",
+    "city": "Bangalore",
+    "occupation": "Software Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 38,
+    "weight": 79.1,
+    "height": 1.75,
+    "income_lpa": 22,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Manager",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 26,
+    "weight": 66.8,
+    "height": 1.67,
+    "income_lpa": 8,
+    "smoker": "No",
+    "city": "Kolkata",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 43,
+    "weight": 83.5,
+    "height": 1.73,
+    "income_lpa": 28,
+    "smoker": "Yes",
+    "city": "Hyderabad",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 32,
+    "weight": 74.2,
+    "height": 1.72,
+    "income_lpa": 17,
+    "smoker": "No",
+    "city": "Chennai",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 37,
+    "weight": 78.4,
+    "height": 1.76,
+    "income_lpa": 21,
+    "smoker": "Yes",
+    "city": "Pune",
+    "occupation": "Consultant",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 29,
+    "weight": 71.6,
+    "height": 1.72,
+    "income_lpa": 12,
+    "smoker": "No",
+    "city": "Bangalore",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 46,
+    "weight": 87.2,
+    "height": 1.70,
+    "income_lpa": 29,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 24,
+    "weight": 64.3,
+    "height": 1.66,
+    "income_lpa": 6,
+    "smoker": "No",
+    "city": "Delhi",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 40,
+    "weight": 81.5,
+    "height": 1.74,
+    "income_lpa": 20,
+    "smoker": "No",
+    "city": "Kolkata",
+    "occupation": "Manager",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 32,
+    "weight": 74.9,
+    "height": 1.71,
+    "income_lpa": 17,
+    "smoker": "No",
+    "city": "Hyderabad",
+    "occupation": "Analyst",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 51,
+    "weight": 89.7,
+    "height": 1.72,
+    "income_lpa": 35,
+    "smoker": "Yes",
+    "city": "Chennai",
+    "occupation": "Consultant",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 28,
+    "weight": 70.7,
+    "height": 1.70,
+    "income_lpa": 11,
+    "smoker": "No",
+    "city": "Pune",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 39,
+    "weight": 78.6,
+    "height": 1.75,
+    "income_lpa": 19,
+    "smoker": "No",
+    "city": "Delhi",
+    "occupation": "Analyst",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 43,
+    "weight": 83.8,
+    "height": 1.73,
+    "income_lpa": 27,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 30,
+    "weight": 72.4,
+    "height": 1.71,
+    "income_lpa": 14,
+    "smoker": "No",
+    "city": "Kolkata",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 37,
+    "weight": 78.2,
+    "height": 1.76,
+    "income_lpa": 21,
+    "smoker": "No",
+    "city": "Hyderabad",
+    "occupation": "Manager",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 48,
+    "weight": 88.9,
+    "height": 1.72,
+    "income_lpa": 31,
+    "smoker": "Yes",
+    "city": "Chennai",
+    "occupation": "Consultant",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 26,
+    "weight": 67.1,
+    "height": 1.68,
+    "income_lpa": 8,
+    "smoker": "No",
+    "city": "Pune",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 42,
+    "weight": 84.5,
+    "height": 1.74,
+    "income_lpa": 26,
+    "smoker": "Yes",
+    "city": "Delhi",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 31,
+    "weight": 73.1,
+    "height": 1.70,
+    "income_lpa": 15,
+    "smoker": "No",
+    "city": "Bangalore",
+    "occupation": "Software Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 38,
+    "weight": 79.3,
+    "height": 1.75,
+    "income_lpa": 22,
+    "smoker": "Yes",
+    "city": "Mumbai",
+    "occupation": "Manager",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 27,
+    "weight": 68.5,
+    "height": 1.68,
+    "income_lpa": 9,
+    "smoker": "No",
+    "city": "Kolkata",
+    "occupation": "Student",
+    "insurance_premium_category": "Low"
+  },
+  {
+    "age": 44,
+    "weight": 86.1,
+    "height": 1.73,
+    "income_lpa": 28,
+    "smoker": "Yes",
+    "city": "Hyderabad",
+    "occupation": "Doctor",
+    "insurance_premium_category": "High"
+  },
+  {
+    "age": 33,
+    "weight": 75.4,
+    "height": 1.72,
+    "income_lpa": 16,
+    "smoker": "No",
+    "city": "Chennai",
+    "occupation": "Engineer",
+    "insurance_premium_category": "Medium"
+  },
+  {
+    "age": 36,
+    "weight": 77.8,
+    "height": 1.76,
+    "income_lpa": 20,
+    "smoker": "Yes",
+    "city": "Pune",
+    "occupation": "Consultant",
+    "insurance_premium_category": "Medium"
+  }
+]
