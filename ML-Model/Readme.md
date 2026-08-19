@@ -1,4 +1,5 @@
 📊 Insurance Premium Prediction – FastAPI + Streamlit
+
 🌟 Project Overview
 This project is an end‑to‑end Machine Learning application that predicts insurance premium categories based on user attributes.
 It combines:
