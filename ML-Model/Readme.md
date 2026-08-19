@@ -1,10 +1,10 @@
-📊 Insurance Premium Prediction – FastAPI + Streamlit
+📊 **Insurance Premium Prediction – FastAPI + Streamlit**
 
 🌟 Project Overview
 This project is an end‑to‑end Machine Learning application that predicts insurance premium categories based on user attributes.
 It combines:
 
-FastAPI → to serve the trained ML model as a REST API.
+**FastAPI → to serve the trained ML model as a REST API.**
 
 RandomForest Classifier → trained on insurance.csv dataset.
 
@@ -13,7 +13,7 @@ Streamlit → as the frontend interface for user interaction.
 The goal is to demonstrate how to train, deploy, and consume a machine learning model seamlessly using modern Python frameworks.
 
 
-🧠 Machine Learning Workflow
+🧠 **Machine Learning Workflow**
 Dataset:
 
 Source: insurance.csv
@@ -45,7 +45,7 @@ ML: Scikit‑learn, Pandas, NumPy
 
 Serialization: Pickle
 
-📂 Project Structure
+📂 **Project Structure**
 Code
 .
 ├── app.py                  # FastAPI backend with ML endpoints
@@ -56,8 +56,9 @@ Code
 ├── insurance.csv           # Training dataset
 ├── requirements.txt        # Dependencies
 └── README.md               # Documentation
-🚀 How to Run
-1. Clone the repository
+
+🚀 **How to Run**
+1. **Clone the repository**
 bash
 git clone https://github.com/your-username/fastapi-insurance-app.git
 cd fastapi-insurance-app
@@ -76,7 +77,7 @@ streamlit run frontend.py
 Frontend available at:
 👉 http://localhost:8501
 
-🔗 API Endpoints
+🔗 **API Endpoints**
 POST /predict → Accepts JSON input and returns prediction with confidence and class probabilities.
 
 Sample Request:
@@ -103,7 +104,8 @@ json
     "Premium_Tier_3": 0.08
   }
 }
-🎯 Features
+
+🎯 **Features**
 End‑to‑end ML pipeline (train → save → serve → predict).
 
 FastAPI backend with auto‑generated Swagger docs.
@@ -112,7 +114,7 @@ Streamlit frontend for interactive predictions.
 
 Modular project structure for scalability.
 
-📌 Future Enhancements
+📌 **Future Enhancements**
 Add Docker for containerized deployment.
 
 Integrate MLflow for model versioning and tracking.
