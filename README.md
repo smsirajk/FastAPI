@@ -32,7 +32,9 @@ Pandas / NumPy → Data preprocessing
 
 Pickle → Model persistence
 
-📂 Repository Structure Code . ├── app.py # FastAPI backend ├── frontend.py # Streamlit frontend ├── model/ # Trained model (model.pkl) ├── schema/ # Pydantic schemas ├── config/ # Configurations ├── insurance.csv # Training dataset ├── requirements.txt # Dependencies └── README.md # Documentation 🚀 Getting Started
+**📂 Repository Structure**
+
+Code . ├── app.py # FastAPI backend ├── frontend.py # Streamlit frontend ├── model/ # Trained model (model.pkl) ├── schema/ # Pydantic schemas ├── config/ # Configurations ├── insurance.csv # Training dataset ├── requirements.txt # Dependencies └── README.md # Documentation 🚀 Getting Started
 
 Clone the repository bash git clone https://github.com/your-username/fastapi-streamlit-insurance.git cd fastapi-streamlit-insurance
 
